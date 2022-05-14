@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @buffnerd
+- 👋 Hi, I’m @buffnerd | CompTIA Security+ Certified
 - 👀 I’m interested in securing critical infrastructure. 
-- 🌱 I’m currently studying network and security administration.
+- 🌱 I’m currently working as a systems engineer.
 - 💞️ I’m looking to collaborate on multi-layer security tools such as cross-platform VPN-Chains and Proxy-Chains.
 - 📫 You can reach me at aaron.voborny@trojans.dsu.edu
 
