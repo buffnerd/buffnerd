@@ -6,6 +6,8 @@
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/buffnerd/Sentinel-Lab)
 - <b>Processes<b>
   - [Secure Windows Data Migration for an Enterprise Network](https://github.com/buffnerd/Secure-Windows-Data-Migration)
+- <b>Passion Projects<b>
+  - [VPN Proxy Chains](
 
 <h2> 🤳 Connect with me:</h2>
 
