@@ -11,6 +11,8 @@
   - [Creating, Activating, and Deactivating VPN Proxy Chains](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)
 - <b>Processes<b>
   - [Secure Windows Data Migration for an Enterprise Network](https://github.com/buffnerd/Secure-Windows-Data-Migration)
+- <b>XML<b>
+  - [XML Configuration Files to Automate and Optimize SIEMs for Security Teams]
 
 <h2> 🤳 Connect with me:</h2>
 
