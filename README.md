@@ -5,7 +5,7 @@
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/buffnerd/Sentinel-Lab)
 - <b>Processes<b>
-  - [Secure Windows Data Migration for an Enterprise Network](<b>
+  - [Secure Windows Data Migration for an Enterprise Network](https://github.com/buffnerd/Secure-Windows-Data-Migration)
 
 <h2> 🤳 Connect with me:</h2>
 
