@@ -1,6 +1,6 @@
 -<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">IT Security Analyst</a>, <a href="https://www.linkedin.com/in/thevoborny/">Cybersecurity Professional.</a> 
 
-In my current role, I manage our SIEM, M365 Quarantine, Endpoints, and oversee the health of our security posture to keep our systems both safe and available to our users.  In the mean time, I am also writing powershell scripts to help automate these processes.  Here are a few examples of administration tasks I have simplified using Powershell and Batch scripts:
+-<h2>In my current role, I manage our SIEM, M365 Quarantine, Endpoints, and oversee the health of our security posture to keep our systems both safe and available to our users.  In the mean time, I am also writing powershell scripts to help automate these processes.  Here are a few examples of administration tasks I have simplified using Powershell and Batch scripts:<h2>
 
 <h2>👨‍💻 IT Administration Projects:</h2>
 
