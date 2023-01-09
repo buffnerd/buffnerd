@@ -19,7 +19,7 @@
 
 
 
-- 👋 Hi, I’m @buffnerd | [CompTIA Security+ Certified](https://www.credly.com/badges/287f1533-fd4f-4b6b-b51e-f8ea0120fe39)
+- 👋 Hi, I’m the Buff Nerd! | [CompTIA Security+ Certified](https://www.credly.com/badges/287f1533-fd4f-4b6b-b51e-f8ea0120fe39)
 - 👀     I’m interested in securing critical infrastructure. 
 - 🌱     I’m currently working as an Cybersecurity Analyst.
 - 💞️     I’m looking to collaborate on [SIEM](https://www.gartner.com/reviews/market/security-information-event-management) and process automation scripts.
