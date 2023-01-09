@@ -20,9 +20,9 @@
 
 - 👋 Hi, I’m @buffnerd | CompTIA Security+ Certified
 - 👀     I’m interested in securing critical infrastructure. 
-- 🌱     I’m currently working as an IT Security Analyst.
-- 💞️     I’m looking to collaborate on multi-layer security tools (i.e. VPN-chains) and SIEM automation scripts.
-- 📫     You can reach me at thevoborny@gmail.com
+- 🌱     I’m currently working as an Cybersecurity Analyst.
+- 💞️     I’m looking to collaborate on SIEM and process automation scripts.
+- 📫     You can email me at thevoborny@gmail.com or connect with me on [LinkedIN](https://linkedin.com/in/thevoborny)
 
 <!---
 buffnerd/buffnerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
