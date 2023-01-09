@@ -21,7 +21,7 @@
 - 👀     I’m interested in securing critical infrastructure. 
 - 🌱     I’m currently working as an IT Security Analyst.
 - 💞️     I’m looking to collaborate on multi-layer security tools (i.e. VPN-chains) and SIEM automation scripts.
-- 📫     You can reach me at aaron.voborny@trojans.dsu.edu
+- 📫     You can reach me at thevoborny@gmail.com
 
 <!---
 buffnerd/buffnerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
