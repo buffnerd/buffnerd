@@ -1,6 +1,6 @@
 -<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">IT Security Analyst</a>, <a href="https://www.linkedin.com/in/thevoborny/">Cybersecurity Professional.</a> 
-<h2>In my current role, I manage our SIEM, Identity & Access processes, User creation/modification/deletion procedures, M365 Quarantine, Phishing Campaigns/Training, Endpoints, AUPs, SOPs and oversee the information security of our organization  by keeping our systems safe from the bad guys and our resources available to our users.  In the mean time, I am also writing powershell scripts to help automate these processes.  
-Here are a few examples of administration tasks I have simplified using Powershell and Batch scripts:<h2>
+<h2>In my current role, I manage our SIEM, Identity & Access processes, User creation/modification/deletion procedures, M365 Quarantine, Phishing Campaigns/Training, Endpoints, AUPs, SOPs and oversee the information security of our organization  by keeping our systems safe from the bad guys and our resources available to our users.  In the mean time, I am also writing powershell scripts to help automate these processes.<h2>  
+<h2>Here are a few examples of administration tasks I have simplified using Powershell and Batch scripts:<h2>
 <h2>👨‍💻 IT Administration Projects:</h2>
 
 - <b>PowerShell</b>
