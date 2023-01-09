@@ -1,4 +1,4 @@
--<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">IT Security Analyst</a>, <a href="https://www.linkedin.com/in/thevoborny/">Cybersecurity Professional</a>
+-<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">IT Security Analyst</a>, <a href="https://www.linkedin.com/in/thevoborny/">Cybersecurity Professional.</a> In my current role, I manage our SIEM, M365 Quarantine, Endpoints, and oversee the enhancement of our security posture to keep our systems both safe and available to our users.
 
 <h2>👨‍💻 IT Administration Projects:</h2>
 
