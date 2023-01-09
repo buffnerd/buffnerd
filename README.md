@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Administration Projects:</h2>
 
 - <b>PowerShell</b>
+  - [Creating, Modifying, and Deleting Users in Powershell](https://www.github.com/buffnerd/Basic-Powershell-Administration)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/buffnerd/Sentinel-Lab)
   - [Creating, Activating, and Deactivating VPN Proxy Chains](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)
 - <b>Processes<b>
