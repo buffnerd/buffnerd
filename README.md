@@ -20,7 +20,7 @@
 - <b>Processes<b>
   - [Secure Windows Data Migration for an Enterprise Network](https://github.com/buffnerd/Secure-Windows-Data-Migration)
 - <b>XML<b>
-  - [Sysmon XML Configuration Files SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
+  - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 
 <h2> 🤳 Connect with me:</h2>
 
