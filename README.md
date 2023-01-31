@@ -17,8 +17,8 @@
   - [Monitor Failed Logins on Domain Controller](https://github.com/buffnerd/Monitor-Failed-Logins/tree/main)
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/buffnerd/Sentinel-Lab)
   - [Creating, Activating, and Deactivating VPN Proxy Chains](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)
-  - [Automating Azure Security Administration with Powershell](https://github.com/buffnerd/Azure-PowerShell-Scripts)
-  - [Bulk Update Proxy Addresses](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)
+  - [Automating Azure Security Administration with PowerShell](https://github.com/buffnerd/Azure-PowerShell-Scripts)
+  - [Bulk Update proxyAddresses Attribute with PowerShell](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)
 - <b>XML<b>
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 
