@@ -22,7 +22,7 @@
 - <b>XML<b>
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 - <b>Security Hardening<b>
-  - [Disabling TLS 1.0 and 1.1]
+  - [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable)
   - [Disabling 3DES]
   - [Disabling RC4]
   - [Disabling Diffie-Hellman]
