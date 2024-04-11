@@ -19,6 +19,7 @@
   - [Creating, Activating, and Deactivating VPN Proxy Chains](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)
   - [Automating Azure Security Administration with PowerShell](https://github.com/buffnerd/Azure-PowerShell-Scripts)
   - [Bulk Updating proxyAddresses Attribute with PowerShell](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)
+  - [Restoring Critical Active Directory Data](https://github.com/buffnerd/Restore-AD)
 - <b>XML<b>
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 - <b>Security Hardening<b>
