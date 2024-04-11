@@ -20,10 +20,10 @@
   - [Automating Azure Security Administration with PowerShell](https://github.com/buffnerd/Azure-PowerShell-Scripts)
   - [Bulk Updating proxyAddresses Attribute with PowerShell](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)
   - [Restoring Critical Active Directory Data](https://github.com/buffnerd/Restore-AD)
-- <b>XML<b>
-  - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
+    
 - <b>Security Hardening<b>
   - [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable)
+  - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 
 <h2> 🤳 Connect with me:</h2>
 
