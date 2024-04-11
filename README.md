@@ -33,8 +33,6 @@
 [linkedin]: https://linkedin.com/in/thevoborny
 
 
-
-- 👋     Hi, I’m the Buff Nerd!
 - 📫     You can connect with me on [LinkedIN](https://linkedin.com/in/thevoborny)
 
 Thank you for visiting my page!
