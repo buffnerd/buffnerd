@@ -21,6 +21,7 @@
   - [Automating Azure Security Administration with PowerShell](https://github.com/buffnerd/Azure-PowerShell-Scripts)
   - [Bulk Updating proxyAddresses Attribute with PowerShell](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)
   - [Restoring Critical Active Directory Data](https://github.com/buffnerd/Restore-AD)
+  - [Restoring Critical SQL Database](https://github.com/buffnerd/Restore-SQL)
     
 - <b>Security Hardening<b>
   - [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable)
