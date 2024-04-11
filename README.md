@@ -24,11 +24,7 @@
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 - <b>Security Hardening<b>
   - [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable)
-  - [Disabling 3DES]
-  - [Disabling RC4]
-  - [Disabling Diffie-Hellman]
-- <b>CVE Mitigations<b>
-  - [coming soon]
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AaronVoborny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
