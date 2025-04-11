@@ -27,6 +27,12 @@
   - [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable)
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 
+<h2>👨‍💻 DevOps Projects:</h2>
+- <b>Python</b>
+  - [Storing User Input Data into Memory in CSV Format](https://github.com/buffnerd/Python-File-Handling-CSV)
+  - [Storing User Input Data into Memory in JSON Format](https://github.com/buffnerd/Python-File-Handling-JSON)
+  - [Storing User Input Data into Memory in XML Format](https://github.com/buffnerd/Python-File-Handling-XML)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="AaronVoborny | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
