@@ -28,6 +28,7 @@
   - [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations)
 
 <h2>👨‍💻 DevOps Projects:</h2>
+
 - <b>Python</b>
   - [Storing User Input Data into Memory in CSV Format](https://github.com/buffnerd/Python-File-Handling-CSV)
   - [Storing User Input Data into Memory in JSON Format](https://github.com/buffnerd/Python-File-Handling-JSON)
