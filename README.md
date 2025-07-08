@@ -6,10 +6,10 @@
 ██████╦╝╚██████╔╝██║░░░░░██║░░░░░  ██║░╚███║███████╗██║░░██║██████╔╝
 ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░  ╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝╚═════╝░
 
-<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/thevoborny/">IT Professional.</a> 
+<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">DevSecOps Professional</a>, <a href="https://www.linkedin.com/in/thevoborny/">IT Professional.</a> 
 <h3>Some of my main skillz: SIEM, Identity & Access processes, User creation/modification/deletion procedures, M365 Quarantine, Phishing Campaigns/Training, Endpoint management, AUP & SOP development.  <h3>
 <h3>I also write automation scripts in Python and Powershell + create XML configuration files that make everyone's lives easier.<h3>  
-<h3>Current certificationz: A+, Net+, Sec+, Project+, ITILv4, Azure Fundamentals<h3>  
+<h3>Current certificationz: A+, Net+, Sec+, Project+, Cloud+ ITILv4, Azure Fundamentals, AWS Cloud Practitioner<h3>  
   
 <h2>👨‍💻 IT Administration Projects:</h2>
 
