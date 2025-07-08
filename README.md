@@ -29,6 +29,16 @@
 
 <h2>👨‍💻 DevOps Projects:</h2>
 
+- <b>AWS Solutions</b>
+  - [Project1](putthelinkhere)
+  - [Project2](putthelinkhere)
+  - [Project3](putthelinkhere)
+  - [Project4](putthelinkhere)
+- <b>Azure Solutions</b>
+  - [Project1](putthelinkhere)
+  - [Project2](putthelinkhere)
+  - [Project3](putthelinkhere)
+  - [Project4](putthelinkhere)
 - <b>Python</b>
   - [Storing User Input Data into Memory in CSV Format](https://github.com/buffnerd/Python-File-Handling-CSV)
   - [Storing User Input Data into Memory in JSON Format](https://github.com/buffnerd/Python-File-Handling-JSON)
