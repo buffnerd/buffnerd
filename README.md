@@ -6,10 +6,29 @@
 ██████╦╝╚██████╔╝██║░░░░░██║░░░░░  ██║░╚███║███████╗██║░░██║██████╔╝
 ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░  ╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝╚═════╝░
 
-<h1>Hi, I'm Aaron! (a.k.a. the "buff nerd") <br/><a href="https://github.com/buffnerd">DevSecOps Professional</a>, <a href="https://www.linkedin.com/in/thevoborny/">Cloud Engineer.</a> 
-<h3>Some of my main skillz: SIEM, Identity & Access processes, User creation/modification/deletion procedures, M365 Quarantine, Phishing Campaigns/Training, Endpoint management, AUP & SOP development.  <h3>
-<h3>I also write automation scripts in Python and Powershell + create XML configuration files that make everyone's lives easier.<h3>  
-<h3>Current certificationz: A+, Net+, Sec+, Project+, Cloud+ ITILv4, Azure Fundamentals, AWS Cloud Practitioner<h3>  
+<h3>☁️ Cloud Developer | Automation Engineer | Security-Minded Technologist</h3>
+
+<p>I specialize in building cloud-native solutions with an emphasis on automation, security, and scalability. From AWS Lambda and IAM policy design to IaC scripting and CI/CD pipelines, I enjoy turning complex problems into efficient, serverless solutions.</p>
+
+<h4>🔧 Core Skills</h4>
+<ul>
+  <li>Cloud Development: AWS (Lambda, API Gateway, IAM, SNS, S3, CloudFormation), Azure</li>
+  <li>Automation: Python, PowerShell, Bash, XML Configs</li>
+  <li>Security: SIEM tuning, CSPM, Identity & Access Management, Endpoint Management</li>
+  <li>DevOps: CI/CD pipelines, GitHub Actions, Terraform (learning), serverless architecture</li>
+  <li>Policy & Compliance: AUPs, SOPs, security awareness training</li>
+</ul>
+
+<h4>📜 Certifications</h4>
+<ul>
+  <li>CompTIA: A+, Network+, Security+, Cloud+, Project+</li>
+  <li>Microsoft: Azure Fundamentals (AZ-900)</li>
+  <li>AWS: Certified Cloud Practitioner</li>
+  <li>ITILv4 Foundations</li>
+</ul>
+
+<p>🚀 I'm currently building lightweight SaaS apps on AWS and refining my skills in CSPM, serverless frameworks, and infrastructure-as-code.</p>
+
   
 <h2>👨‍💻 IT Administration Projects:</h2>
 
