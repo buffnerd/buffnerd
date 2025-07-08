@@ -28,7 +28,7 @@
 </ul>
 
 <p>🚀 I'm currently building lightweight SaaS apps on AWS and refining my skills in CSPM, serverless frameworks, and infrastructure-as-code.</p>
-
+<p>🤝 Currently partnered with Vobotech and DishedUp</p>
   
 <h2>👨‍💻 IT Administration Projects:</h2>
 
