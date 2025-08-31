@@ -1,11 +1,3 @@
-
-██████╗░██╗░░░██╗███████╗███████╗  ███╗░░██╗███████╗██████╗░██████╗░
-██╔══██╗██║░░░██║██╔════╝██╔════╝  ████╗░██║██╔════╝██╔══██╗██╔══██╗
-██████╦╝██║░░░██║█████╗░░█████╗░░  ██╔██╗██║█████╗░░██████╔╝██║░░██║
-██╔══██╗██║░░░██║██╔══╝░░██╔══╝░░  ██║╚████║██╔══╝░░██╔══██╗██║░░██║
-██████╦╝╚██████╔╝██║░░░░░██║░░░░░  ██║░╚███║███████╗██║░░██║██████╔╝
-╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░  ╚═╝░░╚══╝╚══════╝╚═╝░░╚═╝╚═════╝░
-
 <h3>☁️ Cloud Developer | Automation Engineer | Security-Minded Technologist</h3>
 
 <p>I specialize in building cloud-native solutions with an emphasis on automation, security, and scalability. From AWS Lambda and IAM policy design to IaC scripting and CI/CD pipelines, I enjoy turning complex problems into efficient, serverless solutions.</p>
