@@ -41,15 +41,15 @@
 <h2>👨‍💻 DevOps Projects:</h2>
 
 - <b>AWS Solutions</b>
-  - [Project1](putthelinkhere)
-  - [Project2](putthelinkhere)
-  - [Project3](putthelinkhere)
-  - [Project4](putthelinkhere)
+  - [Project1 - Expected Oct 1st](putthelinkhere)
+  - [Project2 - Expected Oct 8th](putthelinkhere)
+  - [Project3 - Expected Oct 15th](putthelinkhere)
+  - [Project4 - Expected Oct 22nd](putthelinkhere)
 - <b>Azure Solutions</b>
-  - [Project1](putthelinkhere)
-  - [Project2](putthelinkhere)
-  - [Project3](putthelinkhere)
-  - [Project4](putthelinkhere)
+  - [Project1 - Expected Oct 29th](putthelinkhere)
+  - [Project2 - Expected Nov 5th](putthelinkhere)
+  - [Project3 - Expected Nov 12th](putthelinkhere)
+  - [Project4 - Expected Nov 19th](putthelinkhere)
 - <b>Python</b>
   - [Storing User Input Data into Memory in CSV Format](https://github.com/buffnerd/Python-File-Handling-CSV)
   - [Storing User Input Data into Memory in JSON Format](https://github.com/buffnerd/Python-File-Handling-JSON)
