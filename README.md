@@ -1,51 +1,51 @@
 # 👋 Hi, I’m Aaron Voborny (aka **buffnerd**)
 
 ☁️ **Cloud Developer | Automation Engineer | Security-Minded Technologist**  
-I design and build **cloud-native solutions** with a focus on **automation, security, and scalability**. From serverless architectures in AWS to custom Python security toolkits and PowerShell automation for IT ops, I enjoy turning complex challenges into clean, reliable, and reusable solutions.
+I build **cloud-native automation** with a focus on **security, reliability, and scale**. From Python toolkits that harden AWS to PowerShell portfolios for hands-on IT ops, I turn complex problems into clean, reusable solutions.
 
 ---
 
-## 🔥 Featured Project
-### [AWS Security Hardening Toolkit](https://github.com/buffnerd/AWS-Security-Hardening)
-A collection of **Python scripts** to harden AWS environments:
-- GuardDuty & Security Hub enablement (all regions)  
-- S3 Block Public Access enforcement  
-- IAM MFA enforcement with key disablement  
-- Security Group auditing & remediation  
-- CloudTrail multi-region logging with validation  
+## 🔥 Featured (Python) — AWS Security Hardening Toolkit
+### [AWS-Security-Hardening](https://github.com/buffnerd/AWS-Security-Hardening)
+A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS security posture:
 
-> Built to be **idempotent, Lambda-ready, and recruiter-friendly** 🛡️
+- GuardDuty enablement (all regions)
+- Security Hub enablement + FSBP/CIS standards
+- S3 Block Public Access (account + buckets)
+- IAM MFA report + optional access-key disable
+- EC2 Security Group audit & remediation
+- CloudTrail multi-region logging with validation
 
----
-
-## 👨‍💻 PowerShell Projects
-Automation & IT administration scripts that solve real-world enterprise problems:  
-
-- [Creating, Modifying, and Deleting Users in PowerShell](https://www.github.com/buffnerd/Basic-Powershell-Administration)  
-- [Monitor Failed Logins on Domain Controller](https://github.com/buffnerd/Monitor-Failed-Logins/tree/main)  
-- [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/buffnerd/Sentinel-Lab)  
-- [Creating, Activating, and Deactivating VPN Proxy Chains](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)  
-- [Automating Azure Security Administration with PowerShell](https://github.com/buffnerd/Azure-PowerShell-Scripts)  
-- [Bulk Updating proxyAddresses Attribute with PowerShell](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)  
-- [Restoring Critical Active Directory Data](https://github.com/buffnerd/Restore-AD)  
-- [Restoring Critical SQL Database](https://github.com/buffnerd/Restore-SQL)  
+> Built to be **Lambda-ready**, **CI/CD-friendly**, and easy to demo for recruiters/engineering leaders.
 
 ---
 
-## 🛡️ Security Hardening Projects
-Focused on improving system & endpoint security through configuration and monitoring:  
+## 🧰 PowerShell Portfolio — Automation & Security
+### [Powershell-Automation-Projects](https://github.com/buffnerd/Powershell-Automation-Projects)
+A curated monorepo of my **PowerShell** work for enterprise IT and security. Highlights include:
 
-- [Disabling TLS 1.0 and 1.1](https://github.com/buffnerd/SSL-TLS-disable) – modernize transport security by removing outdated protocols  
-- [Sysmon XML Configurations for SIEM Optimization](https://github.com/buffnerd/Sysmon-XML-Configurations) – enhanced logging and telemetry for security monitoring  
+- **Identity & Administration**  
+  - Creating/modifying/deleting users; bulk updates (proxyAddresses, etc.)
+  - Restoring critical **Active Directory** and **SQL** data
+- **Monitoring & Telemetry**  
+  - Domain Controller failed-login monitoring & reporting  
+  - EventLog → GeoIP enrichment for failed RDP attempts  
+  - **Sysmon** XML configurations for SIEM optimization
+- **Security & Hardening**  
+  - Deprecating **TLS 1.0/1.1** safely across environments  
+  - Azure security administration automation
+- **Networking & Access**  
+  - Creating/activating/deactivating **VPN proxy chains**
+
+> Each project lives in its own folder with scripts and a README for quick use.
 
 ---
 
 ## 🔧 Core Skills
-- **Cloud Development**: AWS (Lambda, API Gateway, IAM, SNS, S3, CloudFormation), Azure  
-- **Automation**: Python, PowerShell, Bash  
-- **Security**: SIEM tuning, CSPM, IAM, Endpoint Management  
-- **DevOps**: CI/CD pipelines, GitHub Actions, Terraform (learning), serverless design  
-- **Policy & Compliance**: Security frameworks (NIST, ISO), SOPs, security awareness training  
+- **Cloud**: AWS (Lambda, API Gateway, IAM, S3, SNS, CloudFormation), Azure  
+- **Automation**: **Python**, **PowerShell**, Bash  
+- **Security**: CSPM, IAM, SIEM tuning, endpoint hardening  
+- **DevOps**: GitHub Actions, CI/CD, IaC; Terraform (learning), serverless patterns
 
 ---
 
@@ -53,32 +53,27 @@ Focused on improving system & endpoint security through configuration and monito
 - **AWS**: Certified Cloud Practitioner  
 - **Microsoft**: Azure Fundamentals (AZ-900)  
 - **CompTIA**: A+, Network+, Security+, Cloud+, Project+  
-- **ITIL**: ITIL v4 Foundations  
+- **ITIL**: ITIL v4 Foundations
 
 ---
 
 ## 🚀 Current Focus
-- Building **lightweight SaaS apps on AWS**  
-- Expanding skills in **CSPM, serverless frameworks, and IaC (Terraform/CDK)**  
-- Enhancing my **Python + PowerShell portfolio** with real-world automation & security projects  
+- Shipping **serverless SaaS** on AWS  
+- Expanding **CSPM + IaC** (Terraform/CDK)  
+- Growing my **Python & PowerShell** security automation portfolio
 
 ---
 
-## 🤝 Projects & Contributions
-- **[Vobotech](https://vobo.tech)** – Cloud & SaaS development hub  
-- **DishedUp** – AI-powered meal planning app  
-- **The Ekklesia Symposium** – Podcast + media projects  
-- **Sentri Cloud** – Security & automation solutions  
+## 🤳 Connect
+- 💼 [LinkedIn – Aaron Voborny](https://www.linkedin.com/in/aaronvoborny)
+- 📫 DM me here on GitHub
 
 ---
 
-## 🤳 Connect with Me
-- 💼 [LinkedIn – Aaron Voborny](https://www.linkedin.com/in/aaronvoborny)  
-- 📫 Reach me directly here on GitHub  
+⭐ Thanks for visiting! If you’re a recruiter or engineering lead, start with  
+**Python:** [AWS-Security-Hardening](https://github.com/buffnerd/AWS-Security-Hardening)  
+**PowerShell:** [Powershell-Automation-Projects](https://github.com/buffnerd/Powershell-Automation-Projects)
 
----
-
-⭐ **Thanks for visiting my GitHub!** If you’re a recruiter or engineering leader, check out my [AWS Security Hardening Toolkit](https://github.com/buffnerd/AWS-Security-Hardening) — it’s built to showcase my skills in **Python, PowerShell, cloud security, and automation.**
 
 <!---
 buffnerd/buffnerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
