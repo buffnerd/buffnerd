@@ -25,7 +25,7 @@ A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS secur
 A curated monorepo of my **PowerShell** work for enterprise IT and security, grouped by category for quick navigation:
 
 #### 🔐 Identity & Administration
-- [User Management (create/modify/delete)](https://github.com/buffnerd/Powershell-Automation-Projects/tree/main/Identity-Access-Management/UserAccountManagement)  
+- [User Management (create/modify/delete)](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Identity-Access-Management/UserAccountManagement)  
 - [Bulk Updating ProxyAddresses](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)  
 - [AD & SQL Restore Scripts](https://github.com/buffnerd/Restore-AD) | [Restore SQL](https://github.com/buffnerd/Restore-SQL)  
 
@@ -40,11 +40,11 @@ A curated monorepo of my **PowerShell** work for enterprise IT and security, gro
 
 #### 🌐 Networking & Access
 - [VPN Proxy Chains Automation](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)  
-- [Network Drive Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/main/Networking-Resources/NetworkDriveManagement)  
+- [Network Drive Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Networking-Resources/NetworkDriveManagement)  
 
 #### 🖨️ Resources & Services
-- [Printer Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/main/Networking-Resources/PrinterManagement)  
-- [Service Monitoring & Auto-Restart](https://github.com/buffnerd/Powershell-Automation-Projects/tree/main/System-Infrastructure-Maintenance/ServiceMonitoring)  
+- [Printer Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Networking-Resources/PrinterManagement)  
+- [Service Monitoring & Auto-Restart](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/System-Infrastructure-Maintenance/ServiceMonitoring)  
 
 > Each folder has its own README with explanations, parameters, and implementation notes.
 
