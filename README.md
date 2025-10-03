@@ -5,7 +5,7 @@ I build **cloud-native automation** with a focus on **security, reliability, and
 
 ---
 
-## 🔥 Featured (Python) — AWS Security Hardening Toolkit
+## 🔥 AWS Security Hardening Toolkit - Using Python
 ### [AWS-Security-Hardening](https://github.com/buffnerd/AWS-Security-Hardening)
 A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS security posture:
 
