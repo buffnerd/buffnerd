@@ -22,29 +22,35 @@ A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS secur
 
 ## 🧰 PowerShell Portfolio — Automation & Security
 ### [Powershell-Automation-Projects](https://github.com/buffnerd/Powershell-Automation-Projects)  
-A curated monorepo of my **PowerShell** work for enterprise IT and security, grouped by category for quick navigation:
+A curated, category-based collection of **PowerShell** projects for IT automation, monitoring, and security hardening:
 
-#### 🔐 Identity & Administration
-- [User Management (create/modify/delete)](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Identity-Access-Management/UserAccountManagement)  
-- [Bulk Updating ProxyAddresses](https://github.com/buffnerd/Bulk-Updating-Proxy-Address-Attributes)  
-- [AD & SQL Restore Scripts](https://github.com/buffnerd/Restore-AD) | [Restore SQL](https://github.com/buffnerd/Restore-SQL)  
+#### 🔐 Identity & Access Management
+- [User Account Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Identity-Access-Management/UserAccountManagement) – AD user lifecycle, bulk operations, password management  
+- [Permission Auditing](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Identity-Access-Management/PermissionAuditing) – NTFS permissions and access rights analysis  
+- [Group Policy Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Identity-Access-Management/GroupPolicyManagement) – GPO analysis, export, and conflict detection  
 
-#### 📊 Monitoring & Telemetry
-- [Domain Controller Failed Login Reports](https://github.com/buffnerd/Monitor-Failed-Logins)  
-- [Windows EventLog → GeoIP Conversion](https://github.com/buffnerd/Sentinel-Lab)  
-- [Sysmon XML Configurations](https://github.com/buffnerd/Sysmon-XML-Configurations)  
+#### ⚙️ System & Infrastructure Maintenance
+- [System Health Checks](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/System-Infrastructure-Maintenance/SystemHealthChecks) – Performance monitoring, resource tracking, health reporting  
+- [Service Monitoring](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/System-Infrastructure-Maintenance/ServiceMonitoring) – Critical service monitoring and automated restart  
+- [Software Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/System-Infrastructure-Maintenance/SoftwareManagement) – Automated installation, updates, and patch compliance  
+- [File System Cleanup](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/System-Infrastructure-Maintenance/FileSystemCleanup) – Automated cleanup and archival processes  
 
-#### 🛡️ Security & Hardening
-- [Disable TLS 1.0 & 1.1](https://github.com/buffnerd/SSL-TLS-disable)  
-- [Azure Security Administration Automation](https://github.com/buffnerd/Azure-PowerShell-Scripts)  
+#### 🌐 Networking & Resources
+- [Network Drive Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Networking-Resources/NetworkDriveManagement) – Drive mapping automation and connectivity fixes  
+- [Printer Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Networking-Resources/PrinterManagement) – Network printer deployment and maintenance  
 
-#### 🌐 Networking & Access
-- [VPN Proxy Chains Automation](https://github.com/buffnerd/VPN-Proxy-Chains-In-Powershell)  
-- [Network Drive Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Networking-Resources/NetworkDriveManagement)  
+#### 🛡️ Data Protection & Recovery
+- [Backup Verification](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Data-Protection-Recovery/BackupVerification) – Backup integrity validation and restoration testing  
+- [Log Collection & Analysis](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Data-Protection-Recovery/LogCollectionAnalysis) – Security event analysis and SIEM integration  
 
-#### 🖨️ Resources & Services
-- [Printer Management](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/Networking-Resources/PrinterManagement)  
-- [Service Monitoring & Auto-Restart](https://github.com/buffnerd/Powershell-Automation-Projects/tree/master/System-Infrastructure-Maintenance/ServiceMonitoring)  
+#### 🔒 Security & Compliance
+- [Security & Compliance Checks](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Security-Compliance/SecurityComplianceChecks) – Security auditing and compliance automation  
+- [Inventory & Asset Reporting](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Security-Compliance/InventoryAssetReporting) – Hardware and software inventory automation  
+- [Remote Computer Management](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Security-Compliance/RemoteComputerManagement) – Remote administration and configuration  
+- [Outlook/Exchange Automation](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/Security-Compliance/OutlookExchangeAutomation) – Email system automation and reporting  
+
+#### ☁️ Cloud & Advanced Automation
+- [Azure Automation](https://github.com/buffnerd/Powershell-Automation-Projects/blob/master/categories/AzureAutomation) – Cloud infrastructure automation and monitoring  
 
 > Each folder has its own README with explanations, parameters, and implementation notes.
 
