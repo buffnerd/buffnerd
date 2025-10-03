@@ -79,6 +79,16 @@ A curated monorepo of my **PowerShell** work for enterprise IT and security, gro
 
 ---
 
+## 📄 License & Usage
+
+Unless otherwise noted, all repositories are licensed under the  
+[MIT License](https://opensource.org/licenses/MIT) © 2025 Aaron Voborny (buffnerd).  
+
+These projects are provided primarily for **educational and demonstration purposes** as part of my professional portfolio.  
+If you adapt them for production use, please test carefully and adjust for your unique environment.
+
+---
+
 ⭐ Thanks for visiting! If you’re a recruiter or engineering lead, start with:  
 **Python:** [AWS-Security-Hardening](https://github.com/buffnerd/AWS-Security-Hardening)  
 **PowerShell:** [Powershell-Automation-Projects](https://github.com/buffnerd/Powershell-Automation-Projects)  
