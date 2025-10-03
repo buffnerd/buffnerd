@@ -9,12 +9,12 @@ I build **cloud-native automation** with a focus on **security, reliability, and
 ### [AWS-Security-Hardening](https://github.com/buffnerd/AWS-Security-Hardening)
 A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS security posture:
 
-- GuardDuty enablement (all regions)  
-- Security Hub enablement + FSBP/CIS standards  
-- S3 Block Public Access (account + buckets)  
-- IAM MFA report + optional access-key disable  
-- EC2 Security Group audit & remediation  
-- CloudTrail multi-region logging with validation  
+- [GuardDuty enablement (all regions)](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/guardduty.md)  
+- [Security Hub enablement + FSBP/CIS standards](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/securityhub.md)  
+- [S3 Block Public Access (account + buckets)](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/s3_bpa.md)  
+- [IAM MFA report + optional access-key disable](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/iam_mfa.md)  
+- [EC2 Security Group audit & remediation](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/sg_audit.md)  
+- [CloudTrail multi-region logging with validation](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/cloudtrail.md)  
 
 > Built to be **Lambda-ready**, **CI/CD-friendly**, and easy to demo for recruiters/engineering leaders.
 
