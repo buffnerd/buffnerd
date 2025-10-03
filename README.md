@@ -2,7 +2,7 @@
 
 ☁️ **Cloud Developer | Automation Engineer | Security-Minded Technologist**  
 
-I build **cloud-native** and **local** automation programs with a focus on **security, reliability, and scalability**. From Python toolkits that harden AWS to PowerShell portfolios for hands-on IT ops, I turn complex problems into clean, reusable solutions.
+I build **cloud-native** and **on-prem** automation programs with a focus on **security, reliability, and scalability**. From Python toolkits that harden AWS environments to PowerShell toolkits for on-prem IT ops, I turn complex problems into clean, reusable solutions.
 
 ---
 
