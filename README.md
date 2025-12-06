@@ -17,7 +17,7 @@ A collection of **idempotent Python/boto3 scripts** to rapidly improve AWS secur
 - [EC2 Security Group audit & remediation](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/sg_audit.md)  
 - [CloudTrail multi-region logging with validation](https://github.com/buffnerd/AWS-Security-Hardening/blob/main/docs/tools/cloudtrail.md)  
 
-> Built to be **Lambda-ready**, **CI/CD-friendly**, and easy to demo for recruiters/engineering leaders.
+> Built to be **Lambda-ready**, **CI/CD-friendly**, and easy to demo.
 
 ---
 
